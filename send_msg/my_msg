@@ -1,0 +1,3 @@
+1. disassoc all  断开所有连接
+2. 线程A 抓association mac
+3. 线程B 除目标mac外 ， 发deauthentication使其无法连接

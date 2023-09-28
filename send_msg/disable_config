@@ -1,0 +1,6 @@
+#only support utf-8 decode
+target_ssid=testvpn
+#max num is 20
+allow_mac_num=2
+allow_mac_list=112233445566,aabbccddeeff
+
